@@ -44,7 +44,7 @@ var publishProjects = function (location, dest) {
         .pipe(msbuild({
           targets: ["Clean", "Build"],
           configuration: config.buildConfiguration,
-          logCommand: false,
+          logCommand: true,
           verbosity: "minimal",
           maxcpucount: 0,
           toolsVersion: 14.0,
