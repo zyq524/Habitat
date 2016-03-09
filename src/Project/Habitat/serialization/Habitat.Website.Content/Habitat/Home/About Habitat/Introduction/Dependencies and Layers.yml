@@ -18,16 +18,6 @@ SharedFields:
       </profile>
     </tracking>
 Languages:
-- Language: da
-  Versions:
-  - Version: 1
-    Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
-      Hint: __Created
-      Value: 20160112T132047Z
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
-      Hint: __Created by
-      Value: sitecore\admin
 - Language: en
   Versions:
   - Version: 1
@@ -38,27 +28,12 @@ Languages:
       Value: |
         <r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema">
           <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r uid="{8F74F833-AEBD-43CE-ACF4-6CCEA2B6EAD3}" p:before="r[@uid='{8E0C3DB9-C971-43B8-A24E-69D806D79DE0}']" s:ds="{389E6AE3-14AF-4ED1-A0FA-C3A4CC5CAE65}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:ph="/page-layout/sidebarcontent/col-wide-2_e32852cc-e7e8-40a4-9139-8291aa9f71bf" />
-            <r uid="{8E0C3DB9-C971-43B8-A24E-69D806D79DE0}" p:before="r[@uid='{39D286E9-5961-41A9-968F-69FCF613B492}']" s:ds="{844A6AC4-4696-4EA3-B0F9-E1E502D3CDDF}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:ph="/page-layout/sidebarcontent/col-wide-2_e32852cc-e7e8-40a4-9139-8291aa9f71bf" />
-            <r uid="{39D286E9-5961-41A9-968F-69FCF613B492}" p:before="r[@uid='{4E6B034D-463B-458B-9C21-D629CAD7302A}']" s:ds="{DE020AD2-FB43-436C-B82B-2672B7DD5BC9}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:ph="/page-layout/sidebarcontent/col-wide-2_e32852cc-e7e8-40a4-9139-8291aa9f71bf" />
-            <r uid="{4E6B034D-463B-458B-9C21-D629CAD7302A}" p:before="r[@uid='{7AC56D2A-FA56-490F-AEEA-2A77D0509342}']" s:ds="{153DD91B-8F8B-4F76-8879-62D30283BC7E}" s:id="{4E541395-9332-4F1D-87F0-E7F4920C2036}" s:ph="/page-layout/sidebarcontent/col-wide-1_e32852cc-e7e8-40a4-9139-8291aa9f71bf" />
-            <r uid="{7AC56D2A-FA56-490F-AEEA-2A77D0509342}" p:before="r[@uid='{3F7DBE4B-CF33-4ED6-934F-A1DB3DDABD4E}']" s:ds="{8D8EDB18-B641-4277-BAD3-9C6CF89F9FE3}" s:id="{07AB411C-F894-4144-B069-48EF67431D32}" s:ph="/page-layout/col-narrow-2_09d94067-9965-4542-aab4-de0bb1bcc2bd" />
-            <r uid="{3F7DBE4B-CF33-4ED6-934F-A1DB3DDABD4E}" p:before="r[@uid='{BF4B34C0-173A-4DF2-A7AA-C0D22815FA11}']" s:ds="{3A5D638D-5BDD-4DDD-BEAC-4A0C81C27E8A}" s:id="{07AB411C-F894-4144-B069-48EF67431D32}" s:ph="/page-layout/col-narrow-3_09d94067-9965-4542-aab4-de0bb1bcc2bd" />
-            <r uid="{BF4B34C0-173A-4DF2-A7AA-C0D22815FA11}" p:before="r[@uid='{7AFB23F1-A804-40E6-94FE-3C1313436F74}']" s:ds="{C9AA3B8F-5638-4360-AFAD-416D1A6D82B1}" s:id="{07AB411C-F894-4144-B069-48EF67431D32}" s:ph="/page-layout/col-narrow-1_09d94067-9965-4542-aab4-de0bb1bcc2bd" />
-            <r uid="{7AFB23F1-A804-40E6-94FE-3C1313436F74}" p:before="r[@uid='{123EEA84-7204-4163-AF21-BAC8B6694F1B}']" s:ds="{A7044280-3047-4E6F-9C9F-A6DBBB741933}" s:id="{0534F12C-804E-4532-A832-5D61FE9EC6ED}" s:ph="/page-layout/sidebarcontent/col-wide-2_e32852cc-e7e8-40a4-9139-8291aa9f71bf" />
-            <r uid="{123EEA84-7204-4163-AF21-BAC8B6694F1B}" p:before="r[@uid='{F2D9CDD8-F1E9-4714-8C93-026F5D5E8F9C}']" s:ds="{86B2E20E-ECFC-45E2-8735-9A6FCAE83C95}" s:id="{07AB411C-F894-4144-B069-48EF67431D32}" s:ph="/page-layout/sidebarcontent/col-wide-2" />
-            <r uid="{F2D9CDD8-F1E9-4714-8C93-026F5D5E8F9C}" p:before="r[@uid='{94AF685E-2B81-4D78-BD1B-912E1643D9CA}']" s:ds="{435EC034-EF69-446F-8EE5-B589FAD3519B}" s:id="{0534F12C-804E-4532-A832-5D61FE9EC6ED}" s:ph="/page-layout/sidebarcontent/col-wide-1" />
-            <r uid="{94AF685E-2B81-4D78-BD1B-912E1643D9CA}" p:before="r[@uid='{E6CA18D8-321D-4105-9C38-0622E94BE400}']" s:ds="{6086F621-4A0E-4724-9D6F-EA7BA8139F57}" s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}" s:par="" s:ph="/page-layout/col-huge_d66d0697-26e3-4aca-baa7-254849130f65" />
-            <r uid="{D66D0697-26E3-4ACA-BAA7-254849130F65}" p:before="r[@uid='{3CDF4DD8-28A4-4185-8C09-A73CAA4633F7}']" s:ds="" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:par="ContainerIsFluid=1" s:ph="page-layout" />
-            <r uid="{EB352679-4420-46AE-95B0-7CA976C24194}">
-              <p:d />
-            </r>
-            <r uid="{09D94067-9965-4542-AAB4-DE0BB1BCC2BD}" p:before="r[@uid='{A85893F9-5DF5-4C28-AC0F-67AD85D29661}']" s:ds="" s:id="{7074CA39-734D-4953-A3D5-B7D09C37CE3B}" s:par="ContainerIsFluid&amp;UseStaticPlaceholderNames" s:ph="page-layout" />
-            <r uid="{E32852CC-E7E8-40A4-9139-8291AA9F71BF}" p:before="r[@uid='{E2040FB7-4151-456D-9315-5973E4EB4D9D}']" s:id="{50F6052C-4FC2-4AA6-9399-FFC6055CF19F}" s:ph="/page-layout/sidebarcontent" />
-            <r uid="{47F5A079-6F63-4219-BC45-1A221B200906}">
-              <p:d />
-            </r>
-            <r uid="{A3BAD4D4-8E21-4B30-8C4C-B04163653D62}" p:before="*[1=2]" />
+            <r uid="{068EB119-DC57-4EAF-B637-48A0C71B4173}" p:before="r[@uid='{5C980CE4-7BCC-4D81-A644-3BEF81172A9D}']" s:ds="{DE020AD2-FB43-436C-B82B-2672B7DD5BC9}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:ph="/page-layout/section_698b697c-673c-4d24-9028-230f6fc15754/col-narrow-3_2f95b672-ba05-4f73-8c52-c74462e33e95" />
+            <r uid="{5C980CE4-7BCC-4D81-A644-3BEF81172A9D}" p:before="r[@uid='{FAF4C5CC-F5ED-4E90-94D5-5858BE0B04FF}']" s:ds="{844A6AC4-4696-4EA3-B0F9-E1E502D3CDDF}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:ph="/page-layout/section_698b697c-673c-4d24-9028-230f6fc15754/col-narrow-2_2f95b672-ba05-4f73-8c52-c74462e33e95" />
+            <r uid="{FAF4C5CC-F5ED-4E90-94D5-5858BE0B04FF}" p:before="r[@uid='{2F95B672-BA05-4F73-8C52-C74462E33E95}']" s:ds="{389E6AE3-14AF-4ED1-A0FA-C3A4CC5CAE65}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:ph="/page-layout/section_698b697c-673c-4d24-9028-230f6fc15754/col-narrow-1_2f95b672-ba05-4f73-8c52-c74462e33e95" />
+            <r uid="{2F95B672-BA05-4F73-8C52-C74462E33E95}" p:before="r[@uid='{5091CCFE-9A8F-4005-AE29-0075066EF2CA}']" s:id="{7074CA39-734D-4953-A3D5-B7D09C37CE3B}" s:ph="/page-layout/section_698b697c-673c-4d24-9028-230f6fc15754" />
+            <r uid="{5091CCFE-9A8F-4005-AE29-0075066EF2CA}" p:before="r[@uid='{E6CA18D8-321D-4105-9C38-0622E94BE400}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/page-layout/section-narrow" />
+            <r uid="{698B697C-673C-4D24-9028-230F6FC15754}" p:before="r[@uid='{A85893F9-5DF5-4C28-AC0F-67AD85D29661}']" s:ds="" s:id="{1149A3C7-C69A-4E6B-A6C3-32687EC2F8D4}" s:par="UseStaticPlaceholderNames&amp;Type=bg-primary&amp;Media&amp;Parallax" s:ph="page-layout" />
           </d>
         </r>
     - ID: 1b483e91-d8c4-4d19-ba03-462074b55936
@@ -82,7 +57,7 @@ Languages:
     - ID: d74f396d-5c5e-4916-bd0a-bfd58b6b1967
       Hint: Body
       Value: |
-        <p>When following the Package Principles or traditional modular architecture there exists no layers. Actually modular architecture is often seen as an approach to going away from the traditional 3 tiered architecture (UI, business logic, data).&nbsp;Layers in the Habitat methodology is not this kind of layers.</p>
+        <p>When following the Package Principles or traditional modular architecture there exists no layers. Actually modular architecture is often seen as an approach to going away from the traditional 3 tiered architecture (UI, business logic, data). Layers in the Habitat methodology is not this kind of layers.</p>
         <p>The layered approach in Sitecore Habitat is aimed at tightly controlling dependencies between modules and thereby is a vital part of the architectural approach.</p>
         <p>The structure is split into three layers: Project, Features and Foundation, which all consists of modules. </p>
         <ul>
